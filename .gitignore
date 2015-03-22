@@ -1,0 +1,10 @@
+*.class
+*.log
+
+# Specific to sbt
+sbt-launch.jar
+target/
+
+# Specific to IntelliJ
+*.iml
+.idea/
