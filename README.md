@@ -7,7 +7,8 @@ Before using XCode (installed from the Apple Mac App Store), I had to read and a
 Afterwards, I was able to clone this ChessJava repo to my local Mac directory:<br>
 `git clone https://github.com/a-rcrawford/ChessJava.git ~/src/chess/java/`
 
-To open "IntelliJ IDEA" I needed to install the legacy Java SE 6 runtime.
+To open "IntelliJ IDEA" I needed to install the legacy Java SE 6 runtime for the Mac:<br>
+https://support.apple.com/kb/DL1572?locale=en_US
 
 Helpful Links for installing Java Runtime Engines (JREs) and Development Kits (JDKs):
 
