@@ -1,4 +1,4 @@
-package main;
+package com.zynpo.games.chess;
 
 public class Main {
 
