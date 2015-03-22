@@ -25,3 +25,6 @@ Download, install and update Homebrew:<br>
 
 Install Scala Build Tool (SBT):<br>
 `brew install sbt`<br>
+
+At the base of your &lt;ChessJava&gt; repo, you may need to run `sbt` for the first time.
+
