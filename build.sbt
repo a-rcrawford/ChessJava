@@ -1,5 +1,5 @@
 
-name := "ChessJava2"
+name := "ChessJava"
 
 version := "1.0"
 
