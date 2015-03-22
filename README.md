@@ -17,3 +17,9 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.h
 http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
+Download, install and update Homebrew:<br>
+`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+`brew doctor`
+`brew update`
+`brew upgrade`
+
