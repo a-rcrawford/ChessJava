@@ -18,8 +18,10 @@ http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.h
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 Download, install and update Homebrew:<br>
-`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-`brew doctor`
-`brew update`
-`brew upgrade`
+`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`<br>
+`brew doctor`<br>
+`brew update`<br>
+`brew upgrade`<br>
 
+Install Scala Build Tool (SBT):<br>
+`brew install sbt`<br>
